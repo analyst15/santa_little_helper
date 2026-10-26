@@ -1,0 +1,9 @@
+{
+  "name": "Santa's Little Helper",
+  "description": "A Secret Santa app to help you organize your gift exchange.",
+  "requestFramePermissions": [],
+  "prompt": "",
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
